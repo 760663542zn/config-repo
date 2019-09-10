@@ -1,10 +1,1 @@
-server:
-  port: 8730
-spring:
-  application:
-    name: config-client
-eureka:
-  client:
-    fetch-registry: false
-    service-url:
-      defaultZone: http://localhost:8761/eureka/eureka
+project.name: dev01abcgogo
